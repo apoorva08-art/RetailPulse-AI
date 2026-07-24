@@ -109,7 +109,7 @@ The platform automatically:
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+<img src="screenshots/executive_dashboard.png" width="1000">
 
 ---
 
@@ -125,8 +125,7 @@ The platform automatically:
 
 ## 📄 Sample Executive Report
 
-Executive_Report.pdf
-
+[📄 View Executive Report](Executive_Report.pdf)
 ---
 
 ## ⭐ Key Business Insights
