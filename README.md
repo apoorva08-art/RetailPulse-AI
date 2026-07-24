@@ -141,5 +141,5 @@ The platform automatically:
 ## 👨‍💻 Author
 
 Apoorva
-Civil Engineering | Delhi Technological University
+Civil Engineering | Delhi Technological University |
 Aspiring Business Analyst | Data Analyst
