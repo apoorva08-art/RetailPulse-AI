@@ -1,0 +1,1637 @@
+return_id,order_id,return_status,return_reason
+1,5,Returned,Defective Product
+2,10,Returned,Damaged Product
+3,13,Returned,Late Delivery
+4,25,Returned,Late Delivery
+5,27,Returned,Customer Changed Mind
+6,29,Returned,Defective Product
+7,38,Returned,Damaged Product
+8,42,Returned,Late Delivery
+9,47,Returned,Defective Product
+10,53,Returned,Wrong Item
+11,54,Returned,Damaged Product
+12,57,Returned,Late Delivery
+13,63,Returned,Customer Changed Mind
+14,64,Returned,Damaged Product
+15,69,Returned,Wrong Item
+16,82,Returned,Customer Changed Mind
+17,84,Returned,Defective Product
+18,87,Returned,Defective Product
+19,92,Returned,Damaged Product
+20,107,Returned,Wrong Item
+21,111,Returned,Customer Changed Mind
+22,124,Returned,Customer Changed Mind
+23,133,Returned,Late Delivery
+24,134,Returned,Late Delivery
+25,139,Returned,Damaged Product
+26,140,Returned,Wrong Item
+27,142,Returned,Damaged Product
+28,149,Returned,Damaged Product
+29,155,Returned,Late Delivery
+30,156,Returned,Damaged Product
+31,158,Returned,Damaged Product
+32,161,Returned,Defective Product
+33,166,Returned,Defective Product
+34,177,Returned,Late Delivery
+35,181,Returned,Customer Changed Mind
+36,202,Returned,Late Delivery
+37,215,Returned,Late Delivery
+38,226,Returned,Customer Changed Mind
+39,228,Returned,Wrong Item
+40,231,Returned,Defective Product
+41,236,Returned,Defective Product
+42,244,Returned,Damaged Product
+43,251,Returned,Defective Product
+44,252,Returned,Late Delivery
+45,256,Returned,Wrong Item
+46,262,Returned,Customer Changed Mind
+47,268,Returned,Late Delivery
+48,271,Returned,Damaged Product
+49,273,Returned,Customer Changed Mind
+50,281,Returned,Wrong Item
+51,283,Returned,Defective Product
+52,291,Returned,Wrong Item
+53,303,Returned,Defective Product
+54,307,Returned,Late Delivery
+55,313,Returned,Damaged Product
+56,316,Returned,Customer Changed Mind
+57,317,Returned,Wrong Item
+58,324,Returned,Late Delivery
+59,328,Returned,Late Delivery
+60,331,Returned,Wrong Item
+61,332,Returned,Wrong Item
+62,333,Returned,Damaged Product
+63,334,Returned,Late Delivery
+64,338,Returned,Wrong Item
+65,346,Returned,Defective Product
+66,349,Returned,Late Delivery
+67,351,Returned,Damaged Product
+68,359,Returned,Late Delivery
+69,362,Returned,Late Delivery
+70,365,Returned,Damaged Product
+71,366,Returned,Damaged Product
+72,374,Returned,Wrong Item
+73,377,Returned,Late Delivery
+74,385,Returned,Wrong Item
+75,388,Returned,Late Delivery
+76,390,Returned,Customer Changed Mind
+77,392,Returned,Damaged Product
+78,394,Returned,Damaged Product
+79,405,Returned,Customer Changed Mind
+80,408,Returned,Defective Product
+81,418,Returned,Defective Product
+82,436,Returned,Customer Changed Mind
+83,437,Returned,Late Delivery
+84,439,Returned,Damaged Product
+85,443,Returned,Late Delivery
+86,449,Returned,Damaged Product
+87,454,Returned,Wrong Item
+88,467,Returned,Defective Product
+89,471,Returned,Damaged Product
+90,472,Returned,Defective Product
+91,475,Returned,Late Delivery
+92,476,Returned,Damaged Product
+93,486,Returned,Defective Product
+94,488,Returned,Damaged Product
+95,490,Returned,Late Delivery
+96,511,Returned,Damaged Product
+97,513,Returned,Late Delivery
+98,515,Returned,Damaged Product
+99,517,Returned,Wrong Item
+100,518,Returned,Damaged Product
+101,519,Returned,Damaged Product
+102,520,Returned,Customer Changed Mind
+103,537,Returned,Late Delivery
+104,546,Returned,Damaged Product
+105,551,Returned,Late Delivery
+106,562,Returned,Late Delivery
+107,569,Returned,Damaged Product
+108,573,Returned,Late Delivery
+109,575,Returned,Customer Changed Mind
+110,577,Returned,Defective Product
+111,589,Returned,Defective Product
+112,599,Returned,Wrong Item
+113,604,Returned,Wrong Item
+114,605,Returned,Wrong Item
+115,606,Returned,Customer Changed Mind
+116,607,Returned,Customer Changed Mind
+117,611,Returned,Defective Product
+118,626,Returned,Wrong Item
+119,627,Returned,Customer Changed Mind
+120,634,Returned,Defective Product
+121,640,Returned,Defective Product
+122,642,Returned,Defective Product
+123,667,Returned,Late Delivery
+124,669,Returned,Customer Changed Mind
+125,677,Returned,Wrong Item
+126,681,Returned,Defective Product
+127,685,Returned,Customer Changed Mind
+128,691,Returned,Defective Product
+129,695,Returned,Wrong Item
+130,701,Returned,Damaged Product
+131,716,Returned,Defective Product
+132,723,Returned,Wrong Item
+133,724,Returned,Late Delivery
+134,730,Returned,Wrong Item
+135,733,Returned,Wrong Item
+136,736,Returned,Defective Product
+137,747,Returned,Damaged Product
+138,752,Returned,Customer Changed Mind
+139,753,Returned,Damaged Product
+140,770,Returned,Late Delivery
+141,781,Returned,Customer Changed Mind
+142,783,Returned,Wrong Item
+143,786,Returned,Customer Changed Mind
+144,787,Returned,Damaged Product
+145,789,Returned,Customer Changed Mind
+146,795,Returned,Damaged Product
+147,800,Returned,Wrong Item
+148,805,Returned,Late Delivery
+149,827,Returned,Damaged Product
+150,829,Returned,Wrong Item
+151,842,Returned,Customer Changed Mind
+152,849,Returned,Wrong Item
+153,850,Returned,Defective Product
+154,856,Returned,Late Delivery
+155,857,Returned,Defective Product
+156,861,Returned,Damaged Product
+157,862,Returned,Wrong Item
+158,867,Returned,Late Delivery
+159,880,Returned,Defective Product
+160,885,Returned,Damaged Product
+161,889,Returned,Defective Product
+162,894,Returned,Wrong Item
+163,899,Returned,Customer Changed Mind
+164,900,Returned,Customer Changed Mind
+165,903,Returned,Defective Product
+166,905,Returned,Late Delivery
+167,909,Returned,Wrong Item
+168,911,Returned,Customer Changed Mind
+169,919,Returned,Late Delivery
+170,920,Returned,Wrong Item
+171,923,Returned,Customer Changed Mind
+172,925,Returned,Late Delivery
+173,932,Returned,Wrong Item
+174,940,Returned,Damaged Product
+175,949,Returned,Late Delivery
+176,959,Returned,Late Delivery
+177,970,Returned,Defective Product
+178,979,Returned,Late Delivery
+179,984,Returned,Late Delivery
+180,997,Returned,Customer Changed Mind
+181,1003,Returned,Defective Product
+182,1005,Returned,Damaged Product
+183,1017,Returned,Late Delivery
+184,1034,Returned,Damaged Product
+185,1040,Returned,Defective Product
+186,1043,Returned,Defective Product
+187,1046,Returned,Late Delivery
+188,1053,Returned,Damaged Product
+189,1055,Returned,Late Delivery
+190,1062,Returned,Customer Changed Mind
+191,1068,Returned,Wrong Item
+192,1075,Returned,Damaged Product
+193,1081,Returned,Defective Product
+194,1086,Returned,Customer Changed Mind
+195,1088,Returned,Defective Product
+196,1090,Returned,Defective Product
+197,1096,Returned,Defective Product
+198,1098,Returned,Customer Changed Mind
+199,1099,Returned,Customer Changed Mind
+200,1109,Returned,Wrong Item
+201,1116,Returned,Wrong Item
+202,1117,Returned,Damaged Product
+203,1118,Returned,Wrong Item
+204,1119,Returned,Wrong Item
+205,1125,Returned,Damaged Product
+206,1137,Returned,Late Delivery
+207,1140,Returned,Wrong Item
+208,1149,Returned,Wrong Item
+209,1161,Returned,Wrong Item
+210,1167,Returned,Wrong Item
+211,1170,Returned,Defective Product
+212,1174,Returned,Defective Product
+213,1181,Returned,Wrong Item
+214,1184,Returned,Damaged Product
+215,1186,Returned,Defective Product
+216,1190,Returned,Customer Changed Mind
+217,1197,Returned,Damaged Product
+218,1208,Returned,Wrong Item
+219,1212,Returned,Late Delivery
+220,1214,Returned,Damaged Product
+221,1218,Returned,Defective Product
+222,1222,Returned,Wrong Item
+223,1234,Returned,Customer Changed Mind
+224,1236,Returned,Damaged Product
+225,1237,Returned,Late Delivery
+226,1240,Returned,Damaged Product
+227,1244,Returned,Damaged Product
+228,1248,Returned,Late Delivery
+229,1254,Returned,Wrong Item
+230,1258,Returned,Defective Product
+231,1259,Returned,Customer Changed Mind
+232,1266,Returned,Customer Changed Mind
+233,1267,Returned,Customer Changed Mind
+234,1277,Returned,Defective Product
+235,1279,Returned,Late Delivery
+236,1287,Returned,Customer Changed Mind
+237,1291,Returned,Damaged Product
+238,1295,Returned,Customer Changed Mind
+239,1304,Returned,Wrong Item
+240,1307,Returned,Customer Changed Mind
+241,1316,Returned,Damaged Product
+242,1328,Returned,Wrong Item
+243,1331,Returned,Customer Changed Mind
+244,1338,Returned,Late Delivery
+245,1343,Returned,Customer Changed Mind
+246,1344,Returned,Defective Product
+247,1354,Returned,Defective Product
+248,1355,Returned,Customer Changed Mind
+249,1363,Returned,Customer Changed Mind
+250,1364,Returned,Wrong Item
+251,1376,Returned,Customer Changed Mind
+252,1385,Returned,Defective Product
+253,1386,Returned,Damaged Product
+254,1393,Returned,Late Delivery
+255,1402,Returned,Wrong Item
+256,1411,Returned,Customer Changed Mind
+257,1420,Returned,Wrong Item
+258,1424,Returned,Defective Product
+259,1435,Returned,Damaged Product
+260,1440,Returned,Defective Product
+261,1453,Returned,Defective Product
+262,1454,Returned,Wrong Item
+263,1456,Returned,Wrong Item
+264,1463,Returned,Wrong Item
+265,1467,Returned,Damaged Product
+266,1472,Returned,Defective Product
+267,1477,Returned,Customer Changed Mind
+268,1481,Returned,Damaged Product
+269,1487,Returned,Damaged Product
+270,1491,Returned,Defective Product
+271,1492,Returned,Defective Product
+272,1494,Returned,Defective Product
+273,1500,Returned,Wrong Item
+274,1501,Returned,Late Delivery
+275,1502,Returned,Customer Changed Mind
+276,1504,Returned,Customer Changed Mind
+277,1505,Returned,Damaged Product
+278,1510,Returned,Customer Changed Mind
+279,1512,Returned,Late Delivery
+280,1515,Returned,Damaged Product
+281,1516,Returned,Defective Product
+282,1526,Returned,Customer Changed Mind
+283,1527,Returned,Wrong Item
+284,1530,Returned,Damaged Product
+285,1531,Returned,Damaged Product
+286,1532,Returned,Defective Product
+287,1537,Returned,Defective Product
+288,1563,Returned,Customer Changed Mind
+289,1571,Returned,Wrong Item
+290,1574,Returned,Customer Changed Mind
+291,1576,Returned,Customer Changed Mind
+292,1577,Returned,Defective Product
+293,1579,Returned,Wrong Item
+294,1582,Returned,Defective Product
+295,1590,Returned,Damaged Product
+296,1593,Returned,Customer Changed Mind
+297,1600,Returned,Defective Product
+298,1605,Returned,Defective Product
+299,1621,Returned,Customer Changed Mind
+300,1623,Returned,Damaged Product
+301,1643,Returned,Damaged Product
+302,1659,Returned,Customer Changed Mind
+303,1662,Returned,Customer Changed Mind
+304,1666,Returned,Defective Product
+305,1669,Returned,Defective Product
+306,1676,Returned,Damaged Product
+307,1679,Returned,Wrong Item
+308,1690,Returned,Customer Changed Mind
+309,1693,Returned,Defective Product
+310,1695,Returned,Damaged Product
+311,1708,Returned,Late Delivery
+312,1709,Returned,Wrong Item
+313,1710,Returned,Late Delivery
+314,1715,Returned,Wrong Item
+315,1721,Returned,Defective Product
+316,1732,Returned,Late Delivery
+317,1735,Returned,Customer Changed Mind
+318,1749,Returned,Late Delivery
+319,1752,Returned,Defective Product
+320,1758,Returned,Damaged Product
+321,1759,Returned,Customer Changed Mind
+322,1761,Returned,Defective Product
+323,1764,Returned,Damaged Product
+324,1766,Returned,Customer Changed Mind
+325,1776,Returned,Defective Product
+326,1786,Returned,Wrong Item
+327,1788,Returned,Wrong Item
+328,1790,Returned,Late Delivery
+329,1792,Returned,Damaged Product
+330,1802,Returned,Defective Product
+331,1803,Returned,Defective Product
+332,1805,Returned,Customer Changed Mind
+333,1812,Returned,Defective Product
+334,1815,Returned,Customer Changed Mind
+335,1816,Returned,Damaged Product
+336,1820,Returned,Wrong Item
+337,1821,Returned,Damaged Product
+338,1824,Returned,Damaged Product
+339,1832,Returned,Defective Product
+340,1833,Returned,Damaged Product
+341,1836,Returned,Defective Product
+342,1845,Returned,Wrong Item
+343,1854,Returned,Late Delivery
+344,1860,Returned,Defective Product
+345,1861,Returned,Damaged Product
+346,1875,Returned,Defective Product
+347,1877,Returned,Defective Product
+348,1887,Returned,Late Delivery
+349,1899,Returned,Late Delivery
+350,1906,Returned,Late Delivery
+351,1918,Returned,Defective Product
+352,1937,Returned,Customer Changed Mind
+353,1939,Returned,Defective Product
+354,1940,Returned,Defective Product
+355,1946,Returned,Damaged Product
+356,1950,Returned,Late Delivery
+357,1959,Returned,Defective Product
+358,1960,Returned,Wrong Item
+359,1962,Returned,Wrong Item
+360,1964,Returned,Late Delivery
+361,1965,Returned,Customer Changed Mind
+362,1968,Returned,Late Delivery
+363,1971,Returned,Defective Product
+364,1972,Returned,Customer Changed Mind
+365,1991,Returned,Customer Changed Mind
+366,1992,Returned,Wrong Item
+367,1997,Returned,Customer Changed Mind
+368,1998,Returned,Damaged Product
+369,2001,Returned,Wrong Item
+370,2007,Returned,Damaged Product
+371,2013,Returned,Wrong Item
+372,2018,Returned,Damaged Product
+373,2037,Returned,Defective Product
+374,2038,Returned,Damaged Product
+375,2053,Returned,Customer Changed Mind
+376,2054,Returned,Customer Changed Mind
+377,2061,Returned,Customer Changed Mind
+378,2063,Returned,Late Delivery
+379,2066,Returned,Damaged Product
+380,2075,Returned,Late Delivery
+381,2077,Returned,Defective Product
+382,2080,Returned,Defective Product
+383,2082,Returned,Customer Changed Mind
+384,2084,Returned,Late Delivery
+385,2089,Returned,Wrong Item
+386,2097,Returned,Damaged Product
+387,2110,Returned,Defective Product
+388,2113,Returned,Customer Changed Mind
+389,2119,Returned,Defective Product
+390,2121,Returned,Damaged Product
+391,2129,Returned,Wrong Item
+392,2146,Returned,Customer Changed Mind
+393,2164,Returned,Defective Product
+394,2165,Returned,Wrong Item
+395,2172,Returned,Late Delivery
+396,2196,Returned,Wrong Item
+397,2198,Returned,Customer Changed Mind
+398,2220,Returned,Damaged Product
+399,2227,Returned,Wrong Item
+400,2230,Returned,Customer Changed Mind
+401,2238,Returned,Defective Product
+402,2248,Returned,Defective Product
+403,2249,Returned,Customer Changed Mind
+404,2250,Returned,Damaged Product
+405,2261,Returned,Late Delivery
+406,2262,Returned,Damaged Product
+407,2266,Returned,Late Delivery
+408,2271,Returned,Late Delivery
+409,2274,Returned,Customer Changed Mind
+410,2277,Returned,Defective Product
+411,2282,Returned,Damaged Product
+412,2283,Returned,Wrong Item
+413,2317,Returned,Customer Changed Mind
+414,2321,Returned,Wrong Item
+415,2328,Returned,Damaged Product
+416,2329,Returned,Late Delivery
+417,2337,Returned,Wrong Item
+418,2348,Returned,Damaged Product
+419,2355,Returned,Customer Changed Mind
+420,2360,Returned,Late Delivery
+421,2366,Returned,Customer Changed Mind
+422,2369,Returned,Wrong Item
+423,2378,Returned,Late Delivery
+424,2385,Returned,Customer Changed Mind
+425,2390,Returned,Defective Product
+426,2391,Returned,Defective Product
+427,2394,Returned,Late Delivery
+428,2403,Returned,Late Delivery
+429,2413,Returned,Wrong Item
+430,2417,Returned,Wrong Item
+431,2420,Returned,Damaged Product
+432,2425,Returned,Customer Changed Mind
+433,2430,Returned,Defective Product
+434,2434,Returned,Wrong Item
+435,2451,Returned,Customer Changed Mind
+436,2458,Returned,Wrong Item
+437,2477,Returned,Damaged Product
+438,2478,Returned,Late Delivery
+439,2486,Returned,Defective Product
+440,2493,Returned,Customer Changed Mind
+441,2501,Returned,Customer Changed Mind
+442,2505,Returned,Customer Changed Mind
+443,2510,Returned,Wrong Item
+444,2518,Returned,Damaged Product
+445,2519,Returned,Defective Product
+446,2527,Returned,Late Delivery
+447,2528,Returned,Damaged Product
+448,2536,Returned,Customer Changed Mind
+449,2544,Returned,Defective Product
+450,2546,Returned,Late Delivery
+451,2558,Returned,Customer Changed Mind
+452,2561,Returned,Late Delivery
+453,2564,Returned,Damaged Product
+454,2568,Returned,Damaged Product
+455,2571,Returned,Late Delivery
+456,2589,Returned,Customer Changed Mind
+457,2590,Returned,Customer Changed Mind
+458,2594,Returned,Late Delivery
+459,2608,Returned,Customer Changed Mind
+460,2619,Returned,Customer Changed Mind
+461,2628,Returned,Wrong Item
+462,2632,Returned,Damaged Product
+463,2634,Returned,Defective Product
+464,2643,Returned,Defective Product
+465,2648,Returned,Customer Changed Mind
+466,2651,Returned,Defective Product
+467,2661,Returned,Late Delivery
+468,2662,Returned,Customer Changed Mind
+469,2670,Returned,Late Delivery
+470,2672,Returned,Wrong Item
+471,2675,Returned,Late Delivery
+472,2679,Returned,Late Delivery
+473,2681,Returned,Late Delivery
+474,2691,Returned,Wrong Item
+475,2698,Returned,Late Delivery
+476,2702,Returned,Late Delivery
+477,2704,Returned,Defective Product
+478,2705,Returned,Customer Changed Mind
+479,2710,Returned,Customer Changed Mind
+480,2711,Returned,Customer Changed Mind
+481,2716,Returned,Wrong Item
+482,2717,Returned,Defective Product
+483,2719,Returned,Wrong Item
+484,2725,Returned,Defective Product
+485,2734,Returned,Defective Product
+486,2737,Returned,Damaged Product
+487,2740,Returned,Customer Changed Mind
+488,2749,Returned,Wrong Item
+489,2762,Returned,Wrong Item
+490,2774,Returned,Customer Changed Mind
+491,2779,Returned,Customer Changed Mind
+492,2782,Returned,Defective Product
+493,2785,Returned,Late Delivery
+494,2788,Returned,Damaged Product
+495,2792,Returned,Customer Changed Mind
+496,2794,Returned,Damaged Product
+497,2798,Returned,Damaged Product
+498,2804,Returned,Late Delivery
+499,2812,Returned,Late Delivery
+500,2813,Returned,Damaged Product
+501,2829,Returned,Wrong Item
+502,2833,Returned,Defective Product
+503,2835,Returned,Wrong Item
+504,2837,Returned,Customer Changed Mind
+505,2839,Returned,Wrong Item
+506,2840,Returned,Defective Product
+507,2842,Returned,Customer Changed Mind
+508,2867,Returned,Defective Product
+509,2873,Returned,Defective Product
+510,2876,Returned,Wrong Item
+511,2884,Returned,Wrong Item
+512,2898,Returned,Defective Product
+513,2903,Returned,Wrong Item
+514,2907,Returned,Wrong Item
+515,2908,Returned,Defective Product
+516,2911,Returned,Defective Product
+517,2916,Returned,Defective Product
+518,2917,Returned,Customer Changed Mind
+519,2923,Returned,Wrong Item
+520,2925,Returned,Wrong Item
+521,2928,Returned,Late Delivery
+522,2929,Returned,Late Delivery
+523,2932,Returned,Customer Changed Mind
+524,2933,Returned,Defective Product
+525,2935,Returned,Customer Changed Mind
+526,2948,Returned,Wrong Item
+527,2953,Returned,Defective Product
+528,2959,Returned,Customer Changed Mind
+529,2965,Returned,Customer Changed Mind
+530,2969,Returned,Damaged Product
+531,2974,Returned,Damaged Product
+532,2977,Returned,Wrong Item
+533,2978,Returned,Late Delivery
+534,2982,Returned,Customer Changed Mind
+535,2991,Returned,Late Delivery
+536,2994,Returned,Customer Changed Mind
+537,2999,Returned,Late Delivery
+538,3003,Returned,Defective Product
+539,3005,Returned,Damaged Product
+540,3018,Returned,Defective Product
+541,3019,Returned,Late Delivery
+542,3023,Returned,Wrong Item
+543,3027,Returned,Customer Changed Mind
+544,3034,Returned,Damaged Product
+545,3039,Returned,Late Delivery
+546,3043,Returned,Defective Product
+547,3053,Returned,Wrong Item
+548,3076,Returned,Customer Changed Mind
+549,3087,Returned,Wrong Item
+550,3096,Returned,Customer Changed Mind
+551,3100,Returned,Wrong Item
+552,3110,Returned,Late Delivery
+553,3113,Returned,Damaged Product
+554,3119,Returned,Customer Changed Mind
+555,3133,Returned,Damaged Product
+556,3147,Returned,Damaged Product
+557,3153,Returned,Damaged Product
+558,3158,Returned,Wrong Item
+559,3176,Returned,Customer Changed Mind
+560,3178,Returned,Customer Changed Mind
+561,3183,Returned,Late Delivery
+562,3184,Returned,Customer Changed Mind
+563,3199,Returned,Damaged Product
+564,3206,Returned,Defective Product
+565,3210,Returned,Customer Changed Mind
+566,3212,Returned,Damaged Product
+567,3215,Returned,Late Delivery
+568,3224,Returned,Defective Product
+569,3237,Returned,Damaged Product
+570,3246,Returned,Defective Product
+571,3248,Returned,Damaged Product
+572,3250,Returned,Damaged Product
+573,3265,Returned,Damaged Product
+574,3281,Returned,Defective Product
+575,3282,Returned,Damaged Product
+576,3295,Returned,Customer Changed Mind
+577,3297,Returned,Customer Changed Mind
+578,3304,Returned,Late Delivery
+579,3316,Returned,Defective Product
+580,3319,Returned,Late Delivery
+581,3340,Returned,Late Delivery
+582,3350,Returned,Late Delivery
+583,3351,Returned,Late Delivery
+584,3360,Returned,Wrong Item
+585,3371,Returned,Damaged Product
+586,3376,Returned,Damaged Product
+587,3401,Returned,Damaged Product
+588,3405,Returned,Customer Changed Mind
+589,3412,Returned,Defective Product
+590,3415,Returned,Late Delivery
+591,3424,Returned,Customer Changed Mind
+592,3431,Returned,Wrong Item
+593,3432,Returned,Customer Changed Mind
+594,3441,Returned,Late Delivery
+595,3443,Returned,Wrong Item
+596,3458,Returned,Damaged Product
+597,3461,Returned,Late Delivery
+598,3465,Returned,Wrong Item
+599,3469,Returned,Wrong Item
+600,3470,Returned,Late Delivery
+601,3477,Returned,Defective Product
+602,3488,Returned,Defective Product
+603,3490,Returned,Defective Product
+604,3518,Returned,Customer Changed Mind
+605,3520,Returned,Wrong Item
+606,3523,Returned,Damaged Product
+607,3525,Returned,Customer Changed Mind
+608,3530,Returned,Wrong Item
+609,3531,Returned,Wrong Item
+610,3535,Returned,Damaged Product
+611,3537,Returned,Customer Changed Mind
+612,3544,Returned,Customer Changed Mind
+613,3548,Returned,Late Delivery
+614,3551,Returned,Customer Changed Mind
+615,3554,Returned,Defective Product
+616,3556,Returned,Damaged Product
+617,3595,Returned,Damaged Product
+618,3616,Returned,Customer Changed Mind
+619,3625,Returned,Damaged Product
+620,3627,Returned,Defective Product
+621,3630,Returned,Customer Changed Mind
+622,3633,Returned,Damaged Product
+623,3636,Returned,Damaged Product
+624,3640,Returned,Customer Changed Mind
+625,3660,Returned,Damaged Product
+626,3674,Returned,Wrong Item
+627,3677,Returned,Late Delivery
+628,3679,Returned,Damaged Product
+629,3684,Returned,Wrong Item
+630,3692,Returned,Late Delivery
+631,3711,Returned,Damaged Product
+632,3720,Returned,Damaged Product
+633,3733,Returned,Customer Changed Mind
+634,3741,Returned,Late Delivery
+635,3746,Returned,Wrong Item
+636,3760,Returned,Wrong Item
+637,3764,Returned,Customer Changed Mind
+638,3768,Returned,Customer Changed Mind
+639,3769,Returned,Late Delivery
+640,3770,Returned,Wrong Item
+641,3786,Returned,Late Delivery
+642,3790,Returned,Defective Product
+643,3798,Returned,Late Delivery
+644,3809,Returned,Customer Changed Mind
+645,3817,Returned,Late Delivery
+646,3821,Returned,Wrong Item
+647,3824,Returned,Customer Changed Mind
+648,3835,Returned,Late Delivery
+649,3838,Returned,Damaged Product
+650,3848,Returned,Late Delivery
+651,3867,Returned,Wrong Item
+652,3883,Returned,Late Delivery
+653,3887,Returned,Customer Changed Mind
+654,3898,Returned,Customer Changed Mind
+655,3904,Returned,Late Delivery
+656,3921,Returned,Damaged Product
+657,3925,Returned,Damaged Product
+658,3941,Returned,Customer Changed Mind
+659,3942,Returned,Damaged Product
+660,3957,Returned,Wrong Item
+661,3958,Returned,Defective Product
+662,3962,Returned,Late Delivery
+663,3964,Returned,Defective Product
+664,3965,Returned,Late Delivery
+665,3974,Returned,Wrong Item
+666,3985,Returned,Defective Product
+667,4008,Returned,Defective Product
+668,4009,Returned,Customer Changed Mind
+669,4017,Returned,Late Delivery
+670,4027,Returned,Late Delivery
+671,4029,Returned,Defective Product
+672,4032,Returned,Defective Product
+673,4041,Returned,Customer Changed Mind
+674,4046,Returned,Late Delivery
+675,4050,Returned,Defective Product
+676,4091,Returned,Wrong Item
+677,4096,Returned,Damaged Product
+678,4097,Returned,Late Delivery
+679,4100,Returned,Damaged Product
+680,4113,Returned,Late Delivery
+681,4117,Returned,Late Delivery
+682,4125,Returned,Wrong Item
+683,4133,Returned,Defective Product
+684,4138,Returned,Wrong Item
+685,4148,Returned,Wrong Item
+686,4155,Returned,Damaged Product
+687,4157,Returned,Damaged Product
+688,4164,Returned,Customer Changed Mind
+689,4175,Returned,Late Delivery
+690,4176,Returned,Wrong Item
+691,4182,Returned,Damaged Product
+692,4187,Returned,Wrong Item
+693,4196,Returned,Wrong Item
+694,4197,Returned,Defective Product
+695,4198,Returned,Customer Changed Mind
+696,4206,Returned,Customer Changed Mind
+697,4208,Returned,Late Delivery
+698,4210,Returned,Late Delivery
+699,4220,Returned,Late Delivery
+700,4221,Returned,Wrong Item
+701,4223,Returned,Wrong Item
+702,4233,Returned,Wrong Item
+703,4236,Returned,Defective Product
+704,4240,Returned,Late Delivery
+705,4241,Returned,Late Delivery
+706,4242,Returned,Customer Changed Mind
+707,4245,Returned,Defective Product
+708,4248,Returned,Customer Changed Mind
+709,4250,Returned,Customer Changed Mind
+710,4251,Returned,Late Delivery
+711,4253,Returned,Damaged Product
+712,4268,Returned,Late Delivery
+713,4288,Returned,Customer Changed Mind
+714,4296,Returned,Customer Changed Mind
+715,4318,Returned,Wrong Item
+716,4332,Returned,Late Delivery
+717,4336,Returned,Customer Changed Mind
+718,4346,Returned,Late Delivery
+719,4349,Returned,Defective Product
+720,4353,Returned,Customer Changed Mind
+721,4373,Returned,Wrong Item
+722,4384,Returned,Defective Product
+723,4408,Returned,Wrong Item
+724,4414,Returned,Late Delivery
+725,4420,Returned,Damaged Product
+726,4425,Returned,Defective Product
+727,4427,Returned,Damaged Product
+728,4432,Returned,Customer Changed Mind
+729,4438,Returned,Customer Changed Mind
+730,4444,Returned,Damaged Product
+731,4455,Returned,Damaged Product
+732,4461,Returned,Damaged Product
+733,4462,Returned,Defective Product
+734,4463,Returned,Defective Product
+735,4470,Returned,Customer Changed Mind
+736,4473,Returned,Defective Product
+737,4477,Returned,Late Delivery
+738,4478,Returned,Late Delivery
+739,4483,Returned,Wrong Item
+740,4502,Returned,Defective Product
+741,4503,Returned,Defective Product
+742,4505,Returned,Wrong Item
+743,4516,Returned,Defective Product
+744,4517,Returned,Defective Product
+745,4522,Returned,Wrong Item
+746,4527,Returned,Damaged Product
+747,4532,Returned,Customer Changed Mind
+748,4533,Returned,Late Delivery
+749,4539,Returned,Wrong Item
+750,4545,Returned,Damaged Product
+751,4565,Returned,Wrong Item
+752,4569,Returned,Defective Product
+753,4571,Returned,Wrong Item
+754,4590,Returned,Customer Changed Mind
+755,4592,Returned,Late Delivery
+756,4594,Returned,Defective Product
+757,4597,Returned,Late Delivery
+758,4616,Returned,Defective Product
+759,4622,Returned,Customer Changed Mind
+760,4625,Returned,Damaged Product
+761,4629,Returned,Wrong Item
+762,4644,Returned,Late Delivery
+763,4649,Returned,Defective Product
+764,4653,Returned,Defective Product
+765,4656,Returned,Damaged Product
+766,4667,Returned,Damaged Product
+767,4669,Returned,Late Delivery
+768,4671,Returned,Late Delivery
+769,4682,Returned,Customer Changed Mind
+770,4691,Returned,Defective Product
+771,4701,Returned,Defective Product
+772,4712,Returned,Defective Product
+773,4714,Returned,Damaged Product
+774,4717,Returned,Late Delivery
+775,4721,Returned,Defective Product
+776,4726,Returned,Late Delivery
+777,4744,Returned,Wrong Item
+778,4747,Returned,Late Delivery
+779,4762,Returned,Late Delivery
+780,4771,Returned,Customer Changed Mind
+781,4781,Returned,Late Delivery
+782,4782,Returned,Damaged Product
+783,4787,Returned,Wrong Item
+784,4808,Returned,Wrong Item
+785,4815,Returned,Late Delivery
+786,4816,Returned,Wrong Item
+787,4818,Returned,Late Delivery
+788,4824,Returned,Late Delivery
+789,4828,Returned,Damaged Product
+790,4839,Returned,Customer Changed Mind
+791,4844,Returned,Damaged Product
+792,4857,Returned,Defective Product
+793,4864,Returned,Damaged Product
+794,4866,Returned,Customer Changed Mind
+795,4901,Returned,Wrong Item
+796,4907,Returned,Damaged Product
+797,4930,Returned,Wrong Item
+798,4942,Returned,Defective Product
+799,4944,Returned,Late Delivery
+800,4954,Returned,Defective Product
+801,4967,Returned,Late Delivery
+802,4972,Returned,Wrong Item
+803,4974,Returned,Late Delivery
+804,4988,Returned,Customer Changed Mind
+805,5006,Returned,Defective Product
+806,5014,Returned,Late Delivery
+807,5030,Returned,Late Delivery
+808,5038,Returned,Defective Product
+809,5046,Returned,Damaged Product
+810,5047,Returned,Customer Changed Mind
+811,5051,Returned,Wrong Item
+812,5061,Returned,Damaged Product
+813,5066,Returned,Wrong Item
+814,5079,Returned,Defective Product
+815,5082,Returned,Wrong Item
+816,5087,Returned,Damaged Product
+817,5090,Returned,Damaged Product
+818,5092,Returned,Damaged Product
+819,5098,Returned,Wrong Item
+820,5103,Returned,Customer Changed Mind
+821,5104,Returned,Late Delivery
+822,5105,Returned,Wrong Item
+823,5109,Returned,Damaged Product
+824,5113,Returned,Defective Product
+825,5119,Returned,Damaged Product
+826,5124,Returned,Late Delivery
+827,5134,Returned,Late Delivery
+828,5135,Returned,Late Delivery
+829,5137,Returned,Customer Changed Mind
+830,5138,Returned,Defective Product
+831,5140,Returned,Defective Product
+832,5143,Returned,Defective Product
+833,5145,Returned,Wrong Item
+834,5165,Returned,Customer Changed Mind
+835,5185,Returned,Customer Changed Mind
+836,5196,Returned,Damaged Product
+837,5197,Returned,Customer Changed Mind
+838,5201,Returned,Damaged Product
+839,5211,Returned,Late Delivery
+840,5213,Returned,Damaged Product
+841,5214,Returned,Customer Changed Mind
+842,5226,Returned,Damaged Product
+843,5228,Returned,Defective Product
+844,5238,Returned,Late Delivery
+845,5240,Returned,Damaged Product
+846,5244,Returned,Customer Changed Mind
+847,5249,Returned,Wrong Item
+848,5254,Returned,Customer Changed Mind
+849,5264,Returned,Wrong Item
+850,5277,Returned,Wrong Item
+851,5295,Returned,Customer Changed Mind
+852,5310,Returned,Customer Changed Mind
+853,5311,Returned,Wrong Item
+854,5312,Returned,Late Delivery
+855,5313,Returned,Wrong Item
+856,5319,Returned,Wrong Item
+857,5323,Returned,Customer Changed Mind
+858,5329,Returned,Late Delivery
+859,5330,Returned,Customer Changed Mind
+860,5331,Returned,Wrong Item
+861,5332,Returned,Damaged Product
+862,5341,Returned,Customer Changed Mind
+863,5345,Returned,Defective Product
+864,5346,Returned,Defective Product
+865,5350,Returned,Damaged Product
+866,5351,Returned,Late Delivery
+867,5356,Returned,Customer Changed Mind
+868,5357,Returned,Damaged Product
+869,5358,Returned,Customer Changed Mind
+870,5363,Returned,Defective Product
+871,5371,Returned,Defective Product
+872,5377,Returned,Wrong Item
+873,5380,Returned,Customer Changed Mind
+874,5381,Returned,Defective Product
+875,5382,Returned,Defective Product
+876,5385,Returned,Customer Changed Mind
+877,5390,Returned,Customer Changed Mind
+878,5397,Returned,Late Delivery
+879,5418,Returned,Wrong Item
+880,5420,Returned,Wrong Item
+881,5429,Returned,Defective Product
+882,5437,Returned,Defective Product
+883,5447,Returned,Defective Product
+884,5448,Returned,Customer Changed Mind
+885,5450,Returned,Wrong Item
+886,5453,Returned,Customer Changed Mind
+887,5460,Returned,Defective Product
+888,5464,Returned,Damaged Product
+889,5470,Returned,Defective Product
+890,5476,Returned,Late Delivery
+891,5478,Returned,Late Delivery
+892,5484,Returned,Late Delivery
+893,5486,Returned,Late Delivery
+894,5508,Returned,Damaged Product
+895,5524,Returned,Defective Product
+896,5544,Returned,Defective Product
+897,5553,Returned,Wrong Item
+898,5562,Returned,Defective Product
+899,5563,Returned,Late Delivery
+900,5566,Returned,Customer Changed Mind
+901,5572,Returned,Defective Product
+902,5582,Returned,Wrong Item
+903,5587,Returned,Defective Product
+904,5589,Returned,Wrong Item
+905,5601,Returned,Customer Changed Mind
+906,5607,Returned,Wrong Item
+907,5613,Returned,Defective Product
+908,5618,Returned,Damaged Product
+909,5622,Returned,Damaged Product
+910,5623,Returned,Customer Changed Mind
+911,5625,Returned,Late Delivery
+912,5627,Returned,Damaged Product
+913,5628,Returned,Late Delivery
+914,5630,Returned,Defective Product
+915,5637,Returned,Defective Product
+916,5639,Returned,Late Delivery
+917,5651,Returned,Wrong Item
+918,5655,Returned,Customer Changed Mind
+919,5659,Returned,Late Delivery
+920,5660,Returned,Customer Changed Mind
+921,5667,Returned,Defective Product
+922,5671,Returned,Customer Changed Mind
+923,5672,Returned,Damaged Product
+924,5673,Returned,Late Delivery
+925,5690,Returned,Late Delivery
+926,5708,Returned,Wrong Item
+927,5740,Returned,Wrong Item
+928,5745,Returned,Wrong Item
+929,5763,Returned,Damaged Product
+930,5770,Returned,Customer Changed Mind
+931,5771,Returned,Defective Product
+932,5775,Returned,Wrong Item
+933,5780,Returned,Damaged Product
+934,5782,Returned,Wrong Item
+935,5786,Returned,Late Delivery
+936,5788,Returned,Customer Changed Mind
+937,5811,Returned,Late Delivery
+938,5813,Returned,Customer Changed Mind
+939,5815,Returned,Damaged Product
+940,5816,Returned,Defective Product
+941,5831,Returned,Customer Changed Mind
+942,5835,Returned,Damaged Product
+943,5853,Returned,Customer Changed Mind
+944,5858,Returned,Customer Changed Mind
+945,5878,Returned,Late Delivery
+946,5879,Returned,Damaged Product
+947,5885,Returned,Wrong Item
+948,5888,Returned,Damaged Product
+949,5899,Returned,Damaged Product
+950,5911,Returned,Damaged Product
+951,5913,Returned,Damaged Product
+952,5922,Returned,Wrong Item
+953,5929,Returned,Customer Changed Mind
+954,5931,Returned,Defective Product
+955,5937,Returned,Customer Changed Mind
+956,5947,Returned,Late Delivery
+957,5952,Returned,Defective Product
+958,5953,Returned,Defective Product
+959,5970,Returned,Late Delivery
+960,5972,Returned,Defective Product
+961,5973,Returned,Customer Changed Mind
+962,5975,Returned,Damaged Product
+963,5983,Returned,Damaged Product
+964,5990,Returned,Late Delivery
+965,5997,Returned,Damaged Product
+966,5999,Returned,Wrong Item
+967,6001,Returned,Late Delivery
+968,6015,Returned,Wrong Item
+969,6025,Returned,Defective Product
+970,6029,Returned,Damaged Product
+971,6033,Returned,Customer Changed Mind
+972,6039,Returned,Wrong Item
+973,6048,Returned,Damaged Product
+974,6049,Returned,Defective Product
+975,6050,Returned,Damaged Product
+976,6058,Returned,Late Delivery
+977,6069,Returned,Wrong Item
+978,6074,Returned,Customer Changed Mind
+979,6082,Returned,Customer Changed Mind
+980,6086,Returned,Defective Product
+981,6089,Returned,Wrong Item
+982,6100,Returned,Wrong Item
+983,6106,Returned,Defective Product
+984,6107,Returned,Customer Changed Mind
+985,6114,Returned,Defective Product
+986,6120,Returned,Wrong Item
+987,6121,Returned,Customer Changed Mind
+988,6145,Returned,Late Delivery
+989,6156,Returned,Customer Changed Mind
+990,6158,Returned,Wrong Item
+991,6162,Returned,Wrong Item
+992,6163,Returned,Customer Changed Mind
+993,6171,Returned,Defective Product
+994,6173,Returned,Defective Product
+995,6177,Returned,Customer Changed Mind
+996,6184,Returned,Late Delivery
+997,6187,Returned,Wrong Item
+998,6196,Returned,Damaged Product
+999,6197,Returned,Damaged Product
+1000,6226,Returned,Late Delivery
+1001,6238,Returned,Wrong Item
+1002,6241,Returned,Late Delivery
+1003,6253,Returned,Wrong Item
+1004,6256,Returned,Defective Product
+1005,6257,Returned,Customer Changed Mind
+1006,6276,Returned,Wrong Item
+1007,6277,Returned,Damaged Product
+1008,6282,Returned,Customer Changed Mind
+1009,6283,Returned,Late Delivery
+1010,6286,Returned,Customer Changed Mind
+1011,6294,Returned,Defective Product
+1012,6295,Returned,Wrong Item
+1013,6299,Returned,Damaged Product
+1014,6300,Returned,Late Delivery
+1015,6320,Returned,Late Delivery
+1016,6322,Returned,Late Delivery
+1017,6327,Returned,Defective Product
+1018,6332,Returned,Late Delivery
+1019,6342,Returned,Damaged Product
+1020,6347,Returned,Defective Product
+1021,6352,Returned,Defective Product
+1022,6356,Returned,Customer Changed Mind
+1023,6363,Returned,Late Delivery
+1024,6364,Returned,Late Delivery
+1025,6368,Returned,Defective Product
+1026,6370,Returned,Customer Changed Mind
+1027,6377,Returned,Wrong Item
+1028,6382,Returned,Late Delivery
+1029,6393,Returned,Wrong Item
+1030,6406,Returned,Defective Product
+1031,6418,Returned,Late Delivery
+1032,6428,Returned,Damaged Product
+1033,6435,Returned,Defective Product
+1034,6447,Returned,Wrong Item
+1035,6451,Returned,Customer Changed Mind
+1036,6461,Returned,Customer Changed Mind
+1037,6469,Returned,Damaged Product
+1038,6472,Returned,Late Delivery
+1039,6504,Returned,Customer Changed Mind
+1040,6515,Returned,Wrong Item
+1041,6519,Returned,Customer Changed Mind
+1042,6528,Returned,Defective Product
+1043,6531,Returned,Late Delivery
+1044,6540,Returned,Damaged Product
+1045,6543,Returned,Customer Changed Mind
+1046,6549,Returned,Damaged Product
+1047,6552,Returned,Late Delivery
+1048,6562,Returned,Damaged Product
+1049,6574,Returned,Defective Product
+1050,6584,Returned,Wrong Item
+1051,6591,Returned,Late Delivery
+1052,6603,Returned,Damaged Product
+1053,6621,Returned,Damaged Product
+1054,6629,Returned,Damaged Product
+1055,6633,Returned,Wrong Item
+1056,6643,Returned,Damaged Product
+1057,6650,Returned,Defective Product
+1058,6656,Returned,Customer Changed Mind
+1059,6657,Returned,Customer Changed Mind
+1060,6662,Returned,Wrong Item
+1061,6679,Returned,Damaged Product
+1062,6681,Returned,Customer Changed Mind
+1063,6686,Returned,Late Delivery
+1064,6697,Returned,Defective Product
+1065,6704,Returned,Damaged Product
+1066,6708,Returned,Late Delivery
+1067,6717,Returned,Late Delivery
+1068,6721,Returned,Late Delivery
+1069,6728,Returned,Customer Changed Mind
+1070,6729,Returned,Customer Changed Mind
+1071,6735,Returned,Damaged Product
+1072,6746,Returned,Defective Product
+1073,6748,Returned,Customer Changed Mind
+1074,6750,Returned,Customer Changed Mind
+1075,6769,Returned,Customer Changed Mind
+1076,6772,Returned,Customer Changed Mind
+1077,6773,Returned,Damaged Product
+1078,6778,Returned,Damaged Product
+1079,6785,Returned,Late Delivery
+1080,6793,Returned,Damaged Product
+1081,6797,Returned,Late Delivery
+1082,6803,Returned,Wrong Item
+1083,6812,Returned,Late Delivery
+1084,6818,Returned,Damaged Product
+1085,6852,Returned,Damaged Product
+1086,6862,Returned,Damaged Product
+1087,6865,Returned,Wrong Item
+1088,6866,Returned,Customer Changed Mind
+1089,6870,Returned,Late Delivery
+1090,6878,Returned,Late Delivery
+1091,6884,Returned,Customer Changed Mind
+1092,6885,Returned,Customer Changed Mind
+1093,6886,Returned,Late Delivery
+1094,6890,Returned,Customer Changed Mind
+1095,6893,Returned,Late Delivery
+1096,6895,Returned,Customer Changed Mind
+1097,6900,Returned,Customer Changed Mind
+1098,6901,Returned,Late Delivery
+1099,6904,Returned,Customer Changed Mind
+1100,6907,Returned,Wrong Item
+1101,6911,Returned,Wrong Item
+1102,6922,Returned,Defective Product
+1103,6923,Returned,Customer Changed Mind
+1104,6926,Returned,Customer Changed Mind
+1105,6931,Returned,Late Delivery
+1106,6935,Returned,Damaged Product
+1107,6947,Returned,Damaged Product
+1108,6951,Returned,Late Delivery
+1109,6961,Returned,Damaged Product
+1110,6980,Returned,Customer Changed Mind
+1111,6994,Returned,Defective Product
+1112,6998,Returned,Late Delivery
+1113,7004,Returned,Defective Product
+1114,7008,Returned,Damaged Product
+1115,7011,Returned,Wrong Item
+1116,7013,Returned,Wrong Item
+1117,7018,Returned,Wrong Item
+1118,7025,Returned,Damaged Product
+1119,7027,Returned,Defective Product
+1120,7028,Returned,Late Delivery
+1121,7029,Returned,Customer Changed Mind
+1122,7034,Returned,Wrong Item
+1123,7037,Returned,Damaged Product
+1124,7047,Returned,Late Delivery
+1125,7060,Returned,Customer Changed Mind
+1126,7062,Returned,Damaged Product
+1127,7065,Returned,Customer Changed Mind
+1128,7073,Returned,Damaged Product
+1129,7075,Returned,Customer Changed Mind
+1130,7080,Returned,Late Delivery
+1131,7094,Returned,Wrong Item
+1132,7099,Returned,Customer Changed Mind
+1133,7107,Returned,Wrong Item
+1134,7125,Returned,Damaged Product
+1135,7131,Returned,Late Delivery
+1136,7134,Returned,Wrong Item
+1137,7147,Returned,Late Delivery
+1138,7154,Returned,Wrong Item
+1139,7158,Returned,Defective Product
+1140,7164,Returned,Defective Product
+1141,7167,Returned,Damaged Product
+1142,7172,Returned,Customer Changed Mind
+1143,7178,Returned,Defective Product
+1144,7188,Returned,Damaged Product
+1145,7190,Returned,Customer Changed Mind
+1146,7193,Returned,Wrong Item
+1147,7196,Returned,Defective Product
+1148,7201,Returned,Wrong Item
+1149,7208,Returned,Damaged Product
+1150,7212,Returned,Defective Product
+1151,7214,Returned,Customer Changed Mind
+1152,7218,Returned,Damaged Product
+1153,7220,Returned,Late Delivery
+1154,7221,Returned,Damaged Product
+1155,7253,Returned,Customer Changed Mind
+1156,7260,Returned,Damaged Product
+1157,7266,Returned,Damaged Product
+1158,7268,Returned,Customer Changed Mind
+1159,7270,Returned,Customer Changed Mind
+1160,7293,Returned,Damaged Product
+1161,7331,Returned,Customer Changed Mind
+1162,7356,Returned,Defective Product
+1163,7357,Returned,Damaged Product
+1164,7361,Returned,Wrong Item
+1165,7370,Returned,Customer Changed Mind
+1166,7373,Returned,Customer Changed Mind
+1167,7383,Returned,Damaged Product
+1168,7384,Returned,Late Delivery
+1169,7389,Returned,Defective Product
+1170,7393,Returned,Damaged Product
+1171,7398,Returned,Late Delivery
+1172,7399,Returned,Damaged Product
+1173,7408,Returned,Damaged Product
+1174,7409,Returned,Customer Changed Mind
+1175,7412,Returned,Defective Product
+1176,7416,Returned,Customer Changed Mind
+1177,7419,Returned,Customer Changed Mind
+1178,7429,Returned,Defective Product
+1179,7435,Returned,Customer Changed Mind
+1180,7441,Returned,Wrong Item
+1181,7443,Returned,Damaged Product
+1182,7445,Returned,Defective Product
+1183,7449,Returned,Defective Product
+1184,7452,Returned,Late Delivery
+1185,7454,Returned,Customer Changed Mind
+1186,7455,Returned,Customer Changed Mind
+1187,7458,Returned,Damaged Product
+1188,7468,Returned,Defective Product
+1189,7470,Returned,Defective Product
+1190,7481,Returned,Customer Changed Mind
+1191,7482,Returned,Damaged Product
+1192,7485,Returned,Defective Product
+1193,7487,Returned,Customer Changed Mind
+1194,7488,Returned,Late Delivery
+1195,7494,Returned,Defective Product
+1196,7498,Returned,Customer Changed Mind
+1197,7513,Returned,Damaged Product
+1198,7527,Returned,Wrong Item
+1199,7529,Returned,Wrong Item
+1200,7534,Returned,Defective Product
+1201,7552,Returned,Defective Product
+1202,7553,Returned,Wrong Item
+1203,7555,Returned,Damaged Product
+1204,7557,Returned,Defective Product
+1205,7561,Returned,Customer Changed Mind
+1206,7562,Returned,Defective Product
+1207,7575,Returned,Defective Product
+1208,7582,Returned,Late Delivery
+1209,7583,Returned,Customer Changed Mind
+1210,7585,Returned,Customer Changed Mind
+1211,7599,Returned,Defective Product
+1212,7601,Returned,Defective Product
+1213,7603,Returned,Defective Product
+1214,7605,Returned,Defective Product
+1215,7611,Returned,Wrong Item
+1216,7613,Returned,Late Delivery
+1217,7614,Returned,Wrong Item
+1218,7618,Returned,Customer Changed Mind
+1219,7624,Returned,Late Delivery
+1220,7630,Returned,Defective Product
+1221,7632,Returned,Customer Changed Mind
+1222,7641,Returned,Defective Product
+1223,7642,Returned,Customer Changed Mind
+1224,7644,Returned,Defective Product
+1225,7645,Returned,Customer Changed Mind
+1226,7656,Returned,Wrong Item
+1227,7657,Returned,Customer Changed Mind
+1228,7672,Returned,Late Delivery
+1229,7678,Returned,Defective Product
+1230,7687,Returned,Wrong Item
+1231,7689,Returned,Wrong Item
+1232,7690,Returned,Damaged Product
+1233,7710,Returned,Damaged Product
+1234,7713,Returned,Defective Product
+1235,7720,Returned,Customer Changed Mind
+1236,7722,Returned,Damaged Product
+1237,7723,Returned,Late Delivery
+1238,7734,Returned,Late Delivery
+1239,7739,Returned,Customer Changed Mind
+1240,7753,Returned,Late Delivery
+1241,7759,Returned,Defective Product
+1242,7762,Returned,Late Delivery
+1243,7770,Returned,Damaged Product
+1244,7776,Returned,Damaged Product
+1245,7777,Returned,Wrong Item
+1246,7780,Returned,Wrong Item
+1247,7783,Returned,Customer Changed Mind
+1248,7787,Returned,Customer Changed Mind
+1249,7791,Returned,Wrong Item
+1250,7792,Returned,Damaged Product
+1251,7798,Returned,Damaged Product
+1252,7805,Returned,Late Delivery
+1253,7808,Returned,Customer Changed Mind
+1254,7810,Returned,Customer Changed Mind
+1255,7825,Returned,Defective Product
+1256,7826,Returned,Damaged Product
+1257,7831,Returned,Late Delivery
+1258,7833,Returned,Damaged Product
+1259,7835,Returned,Defective Product
+1260,7842,Returned,Wrong Item
+1261,7863,Returned,Defective Product
+1262,7865,Returned,Wrong Item
+1263,7872,Returned,Late Delivery
+1264,7874,Returned,Customer Changed Mind
+1265,7879,Returned,Late Delivery
+1266,7881,Returned,Defective Product
+1267,7886,Returned,Damaged Product
+1268,7894,Returned,Wrong Item
+1269,7898,Returned,Customer Changed Mind
+1270,7905,Returned,Damaged Product
+1271,7908,Returned,Customer Changed Mind
+1272,7909,Returned,Late Delivery
+1273,7914,Returned,Damaged Product
+1274,7958,Returned,Defective Product
+1275,7960,Returned,Late Delivery
+1276,7961,Returned,Wrong Item
+1277,7962,Returned,Wrong Item
+1278,7971,Returned,Damaged Product
+1279,7972,Returned,Late Delivery
+1280,7974,Returned,Defective Product
+1281,7975,Returned,Customer Changed Mind
+1282,7979,Returned,Wrong Item
+1283,7982,Returned,Customer Changed Mind
+1284,7984,Returned,Defective Product
+1285,7991,Returned,Damaged Product
+1286,7992,Returned,Wrong Item
+1287,8002,Returned,Damaged Product
+1288,8009,Returned,Defective Product
+1289,8010,Returned,Damaged Product
+1290,8013,Returned,Late Delivery
+1291,8015,Returned,Damaged Product
+1292,8026,Returned,Defective Product
+1293,8031,Returned,Damaged Product
+1294,8034,Returned,Wrong Item
+1295,8039,Returned,Customer Changed Mind
+1296,8040,Returned,Defective Product
+1297,8048,Returned,Damaged Product
+1298,8054,Returned,Damaged Product
+1299,8065,Returned,Late Delivery
+1300,8068,Returned,Customer Changed Mind
+1301,8069,Returned,Defective Product
+1302,8081,Returned,Damaged Product
+1303,8086,Returned,Late Delivery
+1304,8090,Returned,Customer Changed Mind
+1305,8093,Returned,Late Delivery
+1306,8096,Returned,Late Delivery
+1307,8098,Returned,Defective Product
+1308,8105,Returned,Late Delivery
+1309,8109,Returned,Damaged Product
+1310,8124,Returned,Late Delivery
+1311,8128,Returned,Defective Product
+1312,8130,Returned,Damaged Product
+1313,8134,Returned,Late Delivery
+1314,8135,Returned,Damaged Product
+1315,8136,Returned,Defective Product
+1316,8141,Returned,Wrong Item
+1317,8149,Returned,Defective Product
+1318,8155,Returned,Late Delivery
+1319,8157,Returned,Wrong Item
+1320,8159,Returned,Customer Changed Mind
+1321,8169,Returned,Defective Product
+1322,8174,Returned,Defective Product
+1323,8177,Returned,Damaged Product
+1324,8185,Returned,Damaged Product
+1325,8186,Returned,Defective Product
+1326,8196,Returned,Wrong Item
+1327,8197,Returned,Customer Changed Mind
+1328,8203,Returned,Defective Product
+1329,8209,Returned,Defective Product
+1330,8220,Returned,Damaged Product
+1331,8225,Returned,Damaged Product
+1332,8229,Returned,Defective Product
+1333,8233,Returned,Defective Product
+1334,8241,Returned,Customer Changed Mind
+1335,8248,Returned,Damaged Product
+1336,8252,Returned,Customer Changed Mind
+1337,8258,Returned,Defective Product
+1338,8259,Returned,Damaged Product
+1339,8267,Returned,Late Delivery
+1340,8278,Returned,Late Delivery
+1341,8286,Returned,Damaged Product
+1342,8288,Returned,Customer Changed Mind
+1343,8291,Returned,Customer Changed Mind
+1344,8294,Returned,Customer Changed Mind
+1345,8300,Returned,Damaged Product
+1346,8304,Returned,Damaged Product
+1347,8309,Returned,Customer Changed Mind
+1348,8310,Returned,Customer Changed Mind
+1349,8314,Returned,Wrong Item
+1350,8330,Returned,Defective Product
+1351,8343,Returned,Late Delivery
+1352,8354,Returned,Wrong Item
+1353,8364,Returned,Damaged Product
+1354,8367,Returned,Customer Changed Mind
+1355,8375,Returned,Customer Changed Mind
+1356,8382,Returned,Damaged Product
+1357,8413,Returned,Defective Product
+1358,8420,Returned,Damaged Product
+1359,8422,Returned,Late Delivery
+1360,8435,Returned,Defective Product
+1361,8439,Returned,Late Delivery
+1362,8442,Returned,Defective Product
+1363,8454,Returned,Wrong Item
+1364,8457,Returned,Late Delivery
+1365,8459,Returned,Damaged Product
+1366,8466,Returned,Late Delivery
+1367,8471,Returned,Defective Product
+1368,8484,Returned,Customer Changed Mind
+1369,8490,Returned,Customer Changed Mind
+1370,8492,Returned,Defective Product
+1371,8493,Returned,Late Delivery
+1372,8499,Returned,Customer Changed Mind
+1373,8500,Returned,Wrong Item
+1374,8506,Returned,Late Delivery
+1375,8507,Returned,Damaged Product
+1376,8510,Returned,Damaged Product
+1377,8514,Returned,Wrong Item
+1378,8520,Returned,Damaged Product
+1379,8532,Returned,Wrong Item
+1380,8536,Returned,Damaged Product
+1381,8543,Returned,Late Delivery
+1382,8546,Returned,Damaged Product
+1383,8550,Returned,Defective Product
+1384,8552,Returned,Customer Changed Mind
+1385,8557,Returned,Damaged Product
+1386,8559,Returned,Customer Changed Mind
+1387,8566,Returned,Late Delivery
+1388,8568,Returned,Defective Product
+1389,8573,Returned,Defective Product
+1390,8579,Returned,Defective Product
+1391,8580,Returned,Customer Changed Mind
+1392,8581,Returned,Wrong Item
+1393,8585,Returned,Wrong Item
+1394,8594,Returned,Late Delivery
+1395,8599,Returned,Defective Product
+1396,8607,Returned,Late Delivery
+1397,8609,Returned,Customer Changed Mind
+1398,8615,Returned,Customer Changed Mind
+1399,8621,Returned,Late Delivery
+1400,8631,Returned,Damaged Product
+1401,8642,Returned,Defective Product
+1402,8649,Returned,Late Delivery
+1403,8652,Returned,Defective Product
+1404,8655,Returned,Late Delivery
+1405,8656,Returned,Defective Product
+1406,8657,Returned,Wrong Item
+1407,8664,Returned,Wrong Item
+1408,8674,Returned,Late Delivery
+1409,8677,Returned,Damaged Product
+1410,8691,Returned,Defective Product
+1411,8693,Returned,Defective Product
+1412,8698,Returned,Damaged Product
+1413,8722,Returned,Damaged Product
+1414,8734,Returned,Damaged Product
+1415,8736,Returned,Wrong Item
+1416,8739,Returned,Customer Changed Mind
+1417,8750,Returned,Wrong Item
+1418,8751,Returned,Wrong Item
+1419,8753,Returned,Late Delivery
+1420,8760,Returned,Defective Product
+1421,8761,Returned,Wrong Item
+1422,8766,Returned,Wrong Item
+1423,8768,Returned,Customer Changed Mind
+1424,8778,Returned,Customer Changed Mind
+1425,8783,Returned,Customer Changed Mind
+1426,8786,Returned,Damaged Product
+1427,8803,Returned,Defective Product
+1428,8804,Returned,Late Delivery
+1429,8806,Returned,Defective Product
+1430,8807,Returned,Late Delivery
+1431,8811,Returned,Wrong Item
+1432,8814,Returned,Customer Changed Mind
+1433,8830,Returned,Defective Product
+1434,8838,Returned,Wrong Item
+1435,8848,Returned,Wrong Item
+1436,8850,Returned,Defective Product
+1437,8851,Returned,Late Delivery
+1438,8854,Returned,Late Delivery
+1439,8856,Returned,Late Delivery
+1440,8857,Returned,Wrong Item
+1441,8860,Returned,Late Delivery
+1442,8867,Returned,Late Delivery
+1443,8870,Returned,Defective Product
+1444,8875,Returned,Wrong Item
+1445,8882,Returned,Damaged Product
+1446,8887,Returned,Wrong Item
+1447,8889,Returned,Defective Product
+1448,8903,Returned,Damaged Product
+1449,8908,Returned,Damaged Product
+1450,8910,Returned,Damaged Product
+1451,8922,Returned,Late Delivery
+1452,8928,Returned,Late Delivery
+1453,8930,Returned,Customer Changed Mind
+1454,8932,Returned,Customer Changed Mind
+1455,8936,Returned,Defective Product
+1456,8943,Returned,Late Delivery
+1457,8954,Returned,Damaged Product
+1458,8964,Returned,Late Delivery
+1459,8971,Returned,Damaged Product
+1460,8979,Returned,Wrong Item
+1461,8989,Returned,Defective Product
+1462,8998,Returned,Defective Product
+1463,9001,Returned,Late Delivery
+1464,9008,Returned,Late Delivery
+1465,9022,Returned,Wrong Item
+1466,9024,Returned,Wrong Item
+1467,9027,Returned,Wrong Item
+1468,9030,Returned,Customer Changed Mind
+1469,9036,Returned,Late Delivery
+1470,9038,Returned,Damaged Product
+1471,9058,Returned,Defective Product
+1472,9079,Returned,Wrong Item
+1473,9080,Returned,Defective Product
+1474,9092,Returned,Customer Changed Mind
+1475,9097,Returned,Wrong Item
+1476,9103,Returned,Damaged Product
+1477,9108,Returned,Customer Changed Mind
+1478,9109,Returned,Late Delivery
+1479,9123,Returned,Wrong Item
+1480,9133,Returned,Late Delivery
+1481,9141,Returned,Wrong Item
+1482,9143,Returned,Wrong Item
+1483,9144,Returned,Wrong Item
+1484,9147,Returned,Late Delivery
+1485,9154,Returned,Wrong Item
+1486,9165,Returned,Late Delivery
+1487,9167,Returned,Wrong Item
+1488,9170,Returned,Damaged Product
+1489,9175,Returned,Wrong Item
+1490,9178,Returned,Defective Product
+1491,9182,Returned,Late Delivery
+1492,9194,Returned,Customer Changed Mind
+1493,9204,Returned,Defective Product
+1494,9208,Returned,Customer Changed Mind
+1495,9212,Returned,Late Delivery
+1496,9220,Returned,Customer Changed Mind
+1497,9225,Returned,Wrong Item
+1498,9229,Returned,Defective Product
+1499,9231,Returned,Damaged Product
+1500,9240,Returned,Customer Changed Mind
+1501,9245,Returned,Wrong Item
+1502,9254,Returned,Wrong Item
+1503,9260,Returned,Late Delivery
+1504,9262,Returned,Damaged Product
+1505,9270,Returned,Damaged Product
+1506,9278,Returned,Customer Changed Mind
+1507,9285,Returned,Late Delivery
+1508,9289,Returned,Late Delivery
+1509,9292,Returned,Late Delivery
+1510,9299,Returned,Defective Product
+1511,9300,Returned,Damaged Product
+1512,9301,Returned,Late Delivery
+1513,9303,Returned,Defective Product
+1514,9316,Returned,Wrong Item
+1515,9321,Returned,Defective Product
+1516,9329,Returned,Late Delivery
+1517,9330,Returned,Damaged Product
+1518,9331,Returned,Customer Changed Mind
+1519,9354,Returned,Defective Product
+1520,9358,Returned,Wrong Item
+1521,9366,Returned,Defective Product
+1522,9367,Returned,Customer Changed Mind
+1523,9368,Returned,Wrong Item
+1524,9372,Returned,Late Delivery
+1525,9382,Returned,Late Delivery
+1526,9385,Returned,Defective Product
+1527,9408,Returned,Customer Changed Mind
+1528,9429,Returned,Wrong Item
+1529,9435,Returned,Defective Product
+1530,9440,Returned,Wrong Item
+1531,9445,Returned,Customer Changed Mind
+1532,9454,Returned,Damaged Product
+1533,9464,Returned,Customer Changed Mind
+1534,9468,Returned,Wrong Item
+1535,9473,Returned,Late Delivery
+1536,9474,Returned,Defective Product
+1537,9475,Returned,Customer Changed Mind
+1538,9476,Returned,Wrong Item
+1539,9478,Returned,Customer Changed Mind
+1540,9479,Returned,Damaged Product
+1541,9483,Returned,Defective Product
+1542,9487,Returned,Damaged Product
+1543,9489,Returned,Late Delivery
+1544,9492,Returned,Late Delivery
+1545,9493,Returned,Defective Product
+1546,9495,Returned,Wrong Item
+1547,9499,Returned,Wrong Item
+1548,9507,Returned,Customer Changed Mind
+1549,9509,Returned,Wrong Item
+1550,9516,Returned,Wrong Item
+1551,9519,Returned,Damaged Product
+1552,9531,Returned,Customer Changed Mind
+1553,9538,Returned,Customer Changed Mind
+1554,9548,Returned,Late Delivery
+1555,9549,Returned,Damaged Product
+1556,9560,Returned,Damaged Product
+1557,9566,Returned,Damaged Product
+1558,9569,Returned,Late Delivery
+1559,9571,Returned,Wrong Item
+1560,9580,Returned,Wrong Item
+1561,9594,Returned,Customer Changed Mind
+1562,9603,Returned,Damaged Product
+1563,9605,Returned,Wrong Item
+1564,9617,Returned,Late Delivery
+1565,9622,Returned,Damaged Product
+1566,9626,Returned,Late Delivery
+1567,9633,Returned,Customer Changed Mind
+1568,9636,Returned,Customer Changed Mind
+1569,9642,Returned,Late Delivery
+1570,9644,Returned,Customer Changed Mind
+1571,9645,Returned,Defective Product
+1572,9648,Returned,Defective Product
+1573,9650,Returned,Customer Changed Mind
+1574,9655,Returned,Wrong Item
+1575,9664,Returned,Customer Changed Mind
+1576,9671,Returned,Damaged Product
+1577,9672,Returned,Wrong Item
+1578,9675,Returned,Customer Changed Mind
+1579,9677,Returned,Defective Product
+1580,9680,Returned,Defective Product
+1581,9687,Returned,Defective Product
+1582,9695,Returned,Customer Changed Mind
+1583,9696,Returned,Damaged Product
+1584,9697,Returned,Defective Product
+1585,9704,Returned,Damaged Product
+1586,9706,Returned,Late Delivery
+1587,9717,Returned,Wrong Item
+1588,9722,Returned,Defective Product
+1589,9726,Returned,Wrong Item
+1590,9738,Returned,Defective Product
+1591,9746,Returned,Defective Product
+1592,9752,Returned,Defective Product
+1593,9754,Returned,Damaged Product
+1594,9756,Returned,Wrong Item
+1595,9757,Returned,Wrong Item
+1596,9759,Returned,Wrong Item
+1597,9769,Returned,Defective Product
+1598,9784,Returned,Customer Changed Mind
+1599,9803,Returned,Late Delivery
+1600,9808,Returned,Customer Changed Mind
+1601,9811,Returned,Late Delivery
+1602,9817,Returned,Wrong Item
+1603,9825,Returned,Customer Changed Mind
+1604,9831,Returned,Customer Changed Mind
+1605,9841,Returned,Late Delivery
+1606,9842,Returned,Late Delivery
+1607,9844,Returned,Late Delivery
+1608,9848,Returned,Damaged Product
+1609,9852,Returned,Wrong Item
+1610,9855,Returned,Late Delivery
+1611,9858,Returned,Customer Changed Mind
+1612,9859,Returned,Wrong Item
+1613,9868,Returned,Wrong Item
+1614,9870,Returned,Wrong Item
+1615,9876,Returned,Damaged Product
+1616,9878,Returned,Defective Product
+1617,9880,Returned,Wrong Item
+1618,9881,Returned,Late Delivery
+1619,9884,Returned,Customer Changed Mind
+1620,9891,Returned,Late Delivery
+1621,9899,Returned,Late Delivery
+1622,9900,Returned,Wrong Item
+1623,9911,Returned,Defective Product
+1624,9923,Returned,Defective Product
+1625,9926,Returned,Customer Changed Mind
+1626,9936,Returned,Damaged Product
+1627,9945,Returned,Wrong Item
+1628,9950,Returned,Defective Product
+1629,9955,Returned,Damaged Product
+1630,9971,Returned,Customer Changed Mind
+1631,9973,Returned,Damaged Product
+1632,9974,Returned,Defective Product
+1633,9977,Returned,Customer Changed Mind
+1634,9980,Returned,Damaged Product
+1635,9997,Returned,Customer Changed Mind
+1636,9998,Returned,Defective Product

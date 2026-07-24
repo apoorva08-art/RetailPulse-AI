@@ -1,0 +1,67 @@
+product_id,product_name,category,subcategory,brand,cost_price,selling_price
+1,Dell Laptop,Electronics,Laptop,Dell,2571,3237
+2,HP Laptop,Electronics,Laptop,HP,1182,613
+3,Lenovo Laptop,Electronics,Laptop,Lenovo,4274,6669
+4,Asus Laptop,Electronics,Laptop,Asus,3727,1989
+5,Samsung Smartphone,Electronics,Smartphone,Samsung,1258,3664
+6,Apple Smartphone,Electronics,Smartphone,Apple,4562,6314
+7,OnePlus Smartphone,Electronics,Smartphone,OnePlus,2085,4648
+8,Xiaomi Smartphone,Electronics,Smartphone,Xiaomi,4777,6022
+9,Boat Headphones,Electronics,Headphones,Boat,3101,1140
+10,Sony Headphones,Electronics,Headphones,Sony,3452,6628
+11,JBL Headphones,Electronics,Headphones,JBL,546,4123
+12,Noise Headphones,Electronics,Headphones,Noise,353,4316
+13,Logitech Keyboard,Electronics,Keyboard,Logitech,837,3114
+14,HP Keyboard,Electronics,Keyboard,HP,4916,4066
+15,Dell Keyboard,Electronics,Keyboard,Dell,4897,3863
+16,Redgear Keyboard,Electronics,Keyboard,Redgear,3621,2921
+17,Logitech Mouse,Electronics,Mouse,Logitech,1143,3868
+18,Dell Mouse,Electronics,Mouse,Dell,370,3210
+19,HP Mouse,Electronics,Mouse,HP,1607,5613
+20,Redgear Mouse,Electronics,Mouse,Redgear,3969,6199
+21,Nilkamal Chair,Furniture,Chair,Nilkamal,3164,1271
+22,Godrej Chair,Furniture,Chair,Godrej,3777,1417
+23,Ikea Chair,Furniture,Chair,Ikea,2193,4119
+24,Godrej Table,Furniture,Table,Godrej,3480,4842
+25,Ikea Table,Furniture,Table,Ikea,844,3792
+26,Nilkamal Table,Furniture,Table,Nilkamal,2741,6659
+27,Godrej Desk,Furniture,Desk,Godrej,2981,2365
+28,Ikea Desk,Furniture,Desk,Ikea,2928,6932
+29,Godrej Wardrobe,Furniture,Wardrobe,Godrej,1577,1175
+30,Ikea Wardrobe,Furniture,Wardrobe,Ikea,4381,5737
+31,HomeTown Sofa,Furniture,Sofa,HomeTown,1134,4896
+32,Ikea Sofa,Furniture,Sofa,Ikea,4377,2138
+33,Nike T-Shirt,Clothing,T-Shirt,Nike,3062,3426
+34,Puma T-Shirt,Clothing,T-Shirt,Puma,1409,2485
+35,Adidas T-Shirt,Clothing,T-Shirt,Adidas,1042,1749
+36,Levis Jeans,Clothing,Jeans,Levis,2296,2166
+37,Wrangler Jeans,Clothing,Jeans,Wrangler,1621,5484
+38,Lee Jeans,Clothing,Jeans,Lee,1452,6777
+39,Nike Jacket,Clothing,Jacket,Nike,817,2001
+40,Puma Jacket,Clothing,Jacket,Puma,4247,4350
+41,FabIndia Kurta,Clothing,Kurta,FabIndia,4818,6774
+42,Manyavar Kurta,Clothing,Kurta,Manyavar,4947,4227
+43,Nike Shoes,Clothing,Shoes,Nike,4824,5817
+44,Adidas Shoes,Clothing,Shoes,Adidas,2847,5688
+45,Puma Shoes,Clothing,Shoes,Puma,2789,1786
+46,India Gate Rice,Grocery,Rice,India Gate,3802,1109
+47,Fortune Rice,Grocery,Rice,Fortune,4041,4172
+48,Madhur Sugar,Grocery,Sugar,Madhur,2680,2800
+49,Trust Sugar,Grocery,Sugar,Trust,660,3433
+50,Tata Tea Tea,Grocery,Tea,Tata Tea,4356,1157
+51,Red Label Tea,Grocery,Tea,Red Label,2742,4332
+52,Nescafe Coffee,Grocery,Coffee,Nescafe,3902,858
+53,Bru Coffee,Grocery,Coffee,Bru,666,3570
+54,Amul Milk,Grocery,Milk,Amul,2551,1178
+55,Mother Dairy Milk,Grocery,Milk,Mother Dairy,939,5588
+56,Nivia Football,Sports,Football,Nivia,4353,3699
+57,Cosco Football,Sports,Football,Cosco,3990,5304
+58,SG Cricket Bat,Sports,Cricket Bat,SG,4740,6603
+59,SS Cricket Bat,Sports,Cricket Bat,SS,536,4234
+60,MRF Cricket Bat,Sports,Cricket Bat,MRF,4883,5889
+61,Boldfit Yoga Mat,Sports,Yoga Mat,Boldfit,1742,3183
+62,AmazonBasics Yoga Mat,Sports,Yoga Mat,AmazonBasics,4096,4657
+63,Kore Dumbbell,Sports,Dumbbell,Kore,1435,1056
+64,Aurion Dumbbell,Sports,Dumbbell,Aurion,3890,1397
+65,Yonex Tennis Racket,Sports,Tennis Racket,Yonex,3013,6401
+66,Wilson Tennis Racket,Sports,Tennis Racket,Wilson,890,4683
